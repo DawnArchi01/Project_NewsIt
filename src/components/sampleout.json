@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 NBA free agency tracker: Zach LaVine gets supermax; Jalen Brunson to Knicks; Celtics add Danilo Gallinari - CBS Sports",
+            "description": "Keep tabs on the latest NBA free agency moves here",
+            "url": "https://www.cbssports.com/nba/news/2022-nba-free-agency-tracker-zach-lavine-gets-supermax-jalen-brunson-to-knicks-celtics-add-danilo-gallinari/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/01/e917d9d8-f5ef-426f-ac18-4b2bfc244a03/thumbnail/1200x675/300d05d2e1906d9b118e5accd456c2f9/lavine-1g.jpg",
+            "publishedAt": "2022-07-02T18:13:00Z",
+            "content": "NBA free agency is under way, and it's moving along at a rapid pace. As of Thursday evening, teams and players could officially begin negotiating new contracts. However, NBA fans didn't have to wait … [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dot Esports"
+            },
+            "author": "Kacee Fay",
+            "title": "Genshin Impact leaks unveil cast of new Sumeru characters - Dot Esports",
+            "description": "Start saving your Primogems because many new characters have been uncovered.",
+            "url": "https://dotesports.com/general/news/genshin-impact-leaks-unveil-cast-of-new-sumeru-characters/",
+            "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2022/07/01133746/leakedchars-768x432.jpg",
+            "publishedAt": "2022-07-01T19:37:42Z",
+            "content": "Ahead of the Version 2.8 update for Genshin Impact, several members of the community have uncovered leaks highlighting a cast of new Sumeru characters.\r\nFans have been speculating that Sumeru will ar… [+3892 chars]"
+        }
+    ]
+}
